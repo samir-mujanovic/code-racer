@@ -1,0 +1,8 @@
+{
+  "/leaderboard/page": "app/leaderboard/page.js",
+  "/review/page": "app/review/page.js",
+  "/add-snippet/page": "app/add-snippet/page.js",
+  "/dashboard/races/page": "app/dashboard/races/page.js",
+  "/dashboard/snippets/page": "app/dashboard/snippets/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js"
+}

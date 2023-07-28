@@ -1,0 +1,139 @@
+{
+  "node": {
+    "c6569c6a118b91fde5878ccbfa5c4bf5e148d3fb": {
+      "workers": {
+        "app/race/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Crace%5C%5Cactions.ts%22%2C%5B%22saveUserResultAction%22%2C%22createPrivateRaceRoom%22%5D%5D%5D&__client_imported__=true!",
+        "app/race/(play)/practice/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Crace%5C%5Cactions.ts%22%2C%5B%22saveUserResultAction%22%2C%22createPrivateRaceRoom%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cresult%5C%5Cactions.ts%22%2C%5B%22upvoteSnippetAction%22%2C%22downVoteSnippetAction%22%2C%22deleteVoteAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/race/page": "sc_action",
+        "app/race/(play)/practice/page": "sc_action"
+      }
+    },
+    "0f72aef72955e8ffd31e3475529af419e252bb0c": {
+      "workers": {
+        "app/race/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Crace%5C%5Cactions.ts%22%2C%5B%22saveUserResultAction%22%2C%22createPrivateRaceRoom%22%5D%5D%5D&__client_imported__=true!",
+        "app/race/(play)/practice/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Crace%5C%5Cactions.ts%22%2C%5B%22saveUserResultAction%22%2C%22createPrivateRaceRoom%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cresult%5C%5Cactions.ts%22%2C%5B%22upvoteSnippetAction%22%2C%22downVoteSnippetAction%22%2C%22deleteVoteAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/race/page": "sc_action",
+        "app/race/(play)/practice/page": "sc_action"
+      }
+    },
+    "29e8b6a88f9fa4e4aa1ab2cd8373ee2a10af3392": {
+      "workers": {
+        "app/race/(play)/practice/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Crace%5C%5C(play)%5C%5Cloaders.ts%22%2C%5B%22getRandomSnippet%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/race/(play)/practice/page": "sc_server"
+      }
+    },
+    "44726318b37d8562492883f2a91e89723fef289e": {
+      "workers": {
+        "app/race/(play)/practice/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Crace%5C%5Cactions.ts%22%2C%5B%22saveUserResultAction%22%2C%22createPrivateRaceRoom%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cresult%5C%5Cactions.ts%22%2C%5B%22upvoteSnippetAction%22%2C%22downVoteSnippetAction%22%2C%22deleteVoteAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/result/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cresult%5C%5Cactions.ts%22%2C%5B%22upvoteSnippetAction%22%2C%22downVoteSnippetAction%22%2C%22deleteVoteAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/race/(play)/practice/page": "sc_action",
+        "app/result/page": "sc_action"
+      }
+    },
+    "f53e12dcdb9dea29bc34e50577769e7acf071db5": {
+      "workers": {
+        "app/race/(play)/practice/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Crace%5C%5Cactions.ts%22%2C%5B%22saveUserResultAction%22%2C%22createPrivateRaceRoom%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cresult%5C%5Cactions.ts%22%2C%5B%22upvoteSnippetAction%22%2C%22downVoteSnippetAction%22%2C%22deleteVoteAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/result/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cresult%5C%5Cactions.ts%22%2C%5B%22upvoteSnippetAction%22%2C%22downVoteSnippetAction%22%2C%22deleteVoteAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/race/(play)/practice/page": "sc_action",
+        "app/result/page": "sc_action"
+      }
+    },
+    "f56bd37c1d63131561e2a9ee5bfc213e70f87cca": {
+      "workers": {
+        "app/race/(play)/practice/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Crace%5C%5Cactions.ts%22%2C%5B%22saveUserResultAction%22%2C%22createPrivateRaceRoom%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cresult%5C%5Cactions.ts%22%2C%5B%22upvoteSnippetAction%22%2C%22downVoteSnippetAction%22%2C%22deleteVoteAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/result/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cresult%5C%5Cactions.ts%22%2C%5B%22upvoteSnippetAction%22%2C%22downVoteSnippetAction%22%2C%22deleteVoteAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/race/(play)/practice/page": "sc_action",
+        "app/result/page": "sc_action"
+      }
+    },
+    "2d2c20d94148d9f0869a9e7a62ccceadca7a2a48": {
+      "workers": {
+        "app/users/(user-profile)/[userId]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cusers%5C%5C(user-profile)%5C%5C%5BuserId%5D%5C%5Cactions.ts%22%2C%5B%22findUserAchievements%22%2C%22findUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/users/(user-profile)/[userId]/page": "sc_server"
+      }
+    },
+    "c175ee643bf7897aa4d2d71fa53c97afa69bf06c": {
+      "workers": {
+        "app/users/(user-profile)/[userId]/page": "(sc_server)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cusers%5C%5C(user-profile)%5C%5C%5BuserId%5D%5C%5Cactions.ts%22%2C%5B%22findUserAchievements%22%2C%22findUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/users/(user-profile)/[userId]/page": "sc_server"
+      }
+    },
+    "4397f628c4f90e4f426f6c1c07385e6c38cc6da1": {
+      "workers": {
+        "app/users/(user-profile)/[userId]/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cusers%5C%5C(user-profile)%5C%5C(components)%5C%5Cactions.ts%22%2C%5B%22deleteUserAction%22%2C%22updateUserProfile%22%2C%22updateUserAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/users/(user-profile)/[userId]/page": "sc_action"
+      }
+    },
+    "22564df9fd1e6d8fa2f4e4a0874a387e08ed6e51": {
+      "workers": {
+        "app/users/(user-profile)/[userId]/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cusers%5C%5C(user-profile)%5C%5C(components)%5C%5Cactions.ts%22%2C%5B%22deleteUserAction%22%2C%22updateUserProfile%22%2C%22updateUserAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/users/(user-profile)/[userId]/page": "sc_action"
+      }
+    },
+    "848670107042657370eb9e3ab4b82cbf0865c92d": {
+      "workers": {
+        "app/users/(user-profile)/[userId]/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cusers%5C%5C(user-profile)%5C%5C(components)%5C%5Cactions.ts%22%2C%5B%22deleteUserAction%22%2C%22updateUserProfile%22%2C%22updateUserAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/users/(user-profile)/[userId]/page": "sc_action"
+      }
+    },
+    "ff768d4a4d121bc8d80d22e862fff09fac68c1be": {
+      "workers": {
+        "app/dashboard/snippets/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Creview%5C%5Cactions.ts%22%2C%5B%22acquitSnippetAction%22%2C%22deleteSnippetAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/review/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Creview%5C%5Cactions.ts%22%2C%5B%22acquitSnippetAction%22%2C%22deleteSnippetAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/snippets/page": "sc_action",
+        "app/review/page": "sc_action"
+      }
+    },
+    "1843e21bc8859e71d75a6db1765f5e6b774d818f": {
+      "workers": {
+        "app/dashboard/snippets/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Creview%5C%5Cactions.ts%22%2C%5B%22acquitSnippetAction%22%2C%22deleteSnippetAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/review/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Creview%5C%5Cactions.ts%22%2C%5B%22acquitSnippetAction%22%2C%22deleteSnippetAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/snippets/page": "sc_action",
+        "app/review/page": "sc_action"
+      }
+    },
+    "044e880ded2f657cf594b46f09e81589f391c9d3": {
+      "workers": {
+        "app/add-snippet/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cadd-snippet%5C%5C_components%5C%5Cactions.ts%22%2C%5B%22addSnippetAction%22%2C%22addSnippetForReviewAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/add-snippet/page": "sc_action"
+      }
+    },
+    "76343e34f3bc39b1c5923c815e1f198d18be39c2": {
+      "workers": {
+        "app/add-snippet/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csamir%5C%5CProjects%5C%5Ccode-racer%5C%5Csrc%5C%5Capp%5C%5Cadd-snippet%5C%5C_components%5C%5Cactions.ts%22%2C%5B%22addSnippetAction%22%2C%22addSnippetForReviewAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/add-snippet/page": "sc_action"
+      }
+    }
+  },
+  "edge": {}
+}
